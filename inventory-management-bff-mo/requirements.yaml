@@ -1,5 +1,4 @@
 dependencies:
   - name: inventory-management-bff-mo
     version: 1.0.0-1
-    repository: >-
-      http://artifactory.mooc-cpat-ocp01-c-750890-afb9c6047b062b44e3f1b3ecfeba4309-0000.us-east.containers.appdomain.cloud/artifactory/generic-local/cpat-mooc-team-one/
+    repository: http://artifactory.mooc-cpat-ocp01-c-750890-afb9c6047b062b44e3f1b3ecfeba4309-0000.us-east.containers.appdomain.cloud/artifactory/generic-local/cpat-mooc-team-one/
